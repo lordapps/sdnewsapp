@@ -69,6 +69,4 @@ function NewMeetupForm(props) {
     </Card>);
 }
 
-export {
-    NewMeetupForm
-};
+export {NewMeetupForm};

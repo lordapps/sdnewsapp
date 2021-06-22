@@ -7,4 +7,4 @@ function Card(props) {
 }
 
 export  {Card};
-//83176
+//
